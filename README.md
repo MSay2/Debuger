@@ -21,6 +21,8 @@ Bug reports will be ignored if they do not include the following information:
 
 Debugger is an application that contains only the French language, if you want a translation of the application in your native language, please create a new bug report.
 
+Min API: Android Lollipop
+
  # License
 
 ```
