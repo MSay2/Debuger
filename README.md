@@ -1,4 +1,4 @@
-# Care
+# Debuger
 
 <img src="screenshots/ic_launcher.png" width="300">
 
