@@ -19,11 +19,15 @@ Bug reports will be ignored if they do not include the following information:
 * Version number of Debuger
 * Android version name (including ROM Custom).
 
-Debugger is an application that contains only the French language, if you want a translation of the application in your native language, please create a new bug report.
+Debuger is an application that contains only the French language, if you want a translation of the application in your native language, please create a new bug report.
 
 Min API: Android Lollipop
 
- # License
+# Official Repository
+
+the [official repository](http://www.phonandroid.com/forum/debuger-il-regle-le-probleme-du-dossier-dcim-sur-android-t181506.html) of Debuger
+
+# License
 
 ```
 Copyright 2017 MSay2
